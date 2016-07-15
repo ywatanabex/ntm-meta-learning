@@ -1,0 +1,7 @@
+*.zip
+images_background/
+images_evaluation/
+train/
+test/
+train.npz
+test.npz
